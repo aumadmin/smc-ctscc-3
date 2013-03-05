@@ -1,1 +1,1 @@
-remove bin
+commit test with bin
